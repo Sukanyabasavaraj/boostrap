@@ -1,0 +1,148 @@
+
+ .center {
+  padding: 60px;
+  margin-top: 150px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.proff {
+  font-size: 30px;
+}
+.you {
+  font-size: 45px;
+  font-weight: bold;
+}
+.imgabout {
+  height: 200px;
+}
+
+
+.accordion-button {
+  background: black;
+  color: orange;
+}
+.img-responsive {
+  width: 22rem;
+}
+.service {
+  padding-top: 80px;
+  padding-bottom: 80px;
+ 
+}
+.image-take {
+  height: 300px;
+  width: 100%;
+}
+.team{
+  padding: 50px;
+  text-align: center;
+}
+.teamm {
+  color: orange
+}
+.Meet{
+  font-weight: bold;
+}
+.perform {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.cardd {
+  padding: 20px;
+  background: black;
+  
+  text-align: center;
+}
+.adams {
+  color: orange
+}
+.civil {
+  color: white;
+}
+.paragraph {
+  font-size: 20px;
+}
+.accordions-button{
+  background: light;
+  color: black;
+}
+.topology{
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+.card-imgs {
+  height: 500px;
+  width: 100%;
+  padding-bottom: 50px;
+  opacity: 0.5;
+}
+.card-title {
+  color: orange;
+}
+.card-img-overlay{
+  padding: 150px;
+  text-align: center;
+}
+.head4{
+  font-style: italic;
+  color: white;
+}
+.lorem{
+  background: whitesmoke;
+  text-align: center;
+  padding: 20px;
+}
+.peter{
+  text-align: center;
+  font-style: italic;
+  padding: 10px;
+}
+.clms{
+  padding-bottom: 80px;
+}
+.contact{
+  background: navy;
+  padding: 50px;
+}
+.content{
+  color: orange;
+}
+.oicons{
+  color: white;
+  font-weight: bold;
+}
+.contacts{
+  background: navy;
+}
+.tweet {
+      border-radius: 100%;
+      border: 2px solid white;
+      padding: 5px;
+};
+.calender{
+  font-weight: bold;
+}
+.home{
+  color: orange;
+}
+.nav {
+  color: white;
+}
+.card-tex{
+  color: white;
+}
+.play{
+  color: orange;
+  font-size: 50px;
+}
+.main{
+  padding: 15px;
+}
+.headingOne{
+  height: 100px;
+}
